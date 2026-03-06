@@ -20,9 +20,9 @@
 
 <br>
 
-### 🌐 Connect with me:
+<!-- - ### 🌐 Connect with me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/[https://t.me/dev_business1112](https://t.me/dev_business1112)) - @dev_partner1112
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/[https://t.me/dev_business1112](https://t.me/dev_business1112)) - @dev_partner1112 -->
 
 <!-- - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b -->
 <!-- - [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com) - Phoenix -->
