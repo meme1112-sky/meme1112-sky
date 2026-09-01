@@ -307,7 +307,7 @@
 
 </div>
 
-<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4); text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 2.5em; margin: 30px 0; border: 3px solid rgba(255,255,255,0.2);">🚀 Achievements List 🥇</h1>
+<!-- <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4); text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 2.5em; margin: 30px 0; border: 3px solid rgba(255,255,255,0.2);">🚀 Achievements List 🥇</h1> -->
 
 ### 🏆 GitHub Profile Trophy
 
