@@ -325,20 +325,20 @@
 <b>My GitHub Stats</b>
 
 <a href="#">
-  <img height="160px" align="center" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" />
+  <img height="160px" width="64" align="center" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
+  <img height="160px" width="64" align="center" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
+  <img height="160px" width="64" align="center" src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" />
+  <img height="160px" width="64" align="center" src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
+  <img height="160px" width="64" align="center" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
+  <img height="160px" width="64" align="center" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
 </a>
