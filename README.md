@@ -310,7 +310,7 @@
 <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4); text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 2.5em; margin: 30px 0; border: 3px solid rgba(255,255,255,0.2);">🚀 Achievements List 🥇</h1>
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px;"> -->
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
@@ -320,7 +320,7 @@
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
-</div>
+<!-- </div> -->
 
 
 ### 🏆 GitHub Profile Trophy
@@ -339,8 +339,20 @@
 <b>My GitHub Stats</b>
 
 <a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
+  <img height="160px" align="center" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
+  <img height="160px" align="center" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
+</a>
+<a href="#">
+  <img height="160px" align="center" src="(https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
+</a>
+<a href="#">
+  <img height="160px" align="center" src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" />
+</a>
+<a href="#">
+  <img height="160px" align="center" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
+</a>
+<a href="#">
+  <img height="160px" align="center" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
 </a>
