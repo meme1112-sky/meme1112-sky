@@ -309,20 +309,6 @@
 
 <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4); text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 2.5em; margin: 30px 0; border: 3px solid rgba(255,255,255,0.2);">🚀 Achievements List 🥇</h1>
 
-
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px;"> -->
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
-<!-- </div> -->
-
-
 ### 🏆 GitHub Profile Trophy
 
 <!-- activity graph heroku-app start -->
@@ -345,7 +331,7 @@
   <img height="160px" align="center" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
 </a>
 <a href="#">
-  <img height="160px" align="center" src="(https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
+  <img height="160px" align="center" src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
 </a>
 <a href="#">
   <img height="160px" align="center" src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" />
